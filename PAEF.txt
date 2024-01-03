@@ -1,0 +1,84 @@
+2022
+Perfil fuerza	8
+Perfil resistencia	7
+Perfil velocidad	10
+Nota	08,825
+Total puntos	353
+Puntos Extensión	75
+Puntos Abdominales	100
+Puntos carrera 6000 m	78
+Puntos carrera velocidad	100
+Observaciones	 
+Marca Extensiones	52
+Marca Abdominales	86
+Marca carrera 6000 m	025,3
+Marca carrera velocidad	11,50
+Fecha de Carga	13 05 2022
+
+2021
+Perfil fuerza	8
+Perfil resistencia	7
+Perfil velocidad	10
+Nota	08,650
+Total puntos	346
+Puntos Extensión	85
+Puntos Abdominales	87
+Puntos carrera 6000 m	74
+Puntos carrera velocidad	100
+Observaciones	 
+Marca Extensiones	57
+Marca Abdominales	75
+Marca carrera 6000 m	026,3
+Marca carrera velocidad	11,50
+Fecha de Carga	28 04 2021
+
+2019
+Perfil fuerza	7
+Perfil resistencia	8
+Perfil velocidad	10
+Nota	08,150
+Total puntos	326
+Puntos Extensión	59
+Puntos Abdominales	83
+Puntos carrera 6000 m	84
+Puntos carrera velocidad	100
+Observaciones	 
+Marca Extensiones	45
+Marca Abdominales	74
+Marca carrera 6000 m	024,3
+Marca carrera velocidad	11,20
+Fecha de Carga	09 07 2019
+
+2018
+Perfil fuerza	8
+Perfil resistencia	8
+Perfil velocidad	10
+Nota	08,775
+Total puntos	351
+Puntos Extensión	67
+Puntos Abdominales	98
+Puntos carrera 6000 m	86
+Puntos carrera velocidad	100
+Observaciones	 
+Marca Extensiones	49
+Marca Abdominales	86
+Marca carrera 6000 m	024,0
+Marca carrera velocidad	11,30
+Fecha de Carga	07 05 2018
+
+2017
+Perfil fuerza	8
+Perfil resistencia	7
+Perfil velocidad	9
+Nota	08,350
+Total puntos	334
+Puntos Extensión	73
+Puntos Abdominales	87
+Puntos carrera 6000 m	78
+Puntos carrera velocidad	96
+Observaciones	 
+Marca Extensiones	52
+Marca Abdominales	77
+Marca carrera 6000 m	026,0
+Marca carrera velocidad	12,00
+Fecha de Carga	19 07 2017
